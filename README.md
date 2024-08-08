@@ -9,7 +9,6 @@
 - 📫 Reach out me **ranjanshahsi739@gmail.com**
 
 - 📄 My Resume (https://github.com/user-attachments/files/16542993/Resume.pdf)
-kgYb3/view?usp=sharing)
 
 - ⚡ Fun fact **I love coding.**
 
