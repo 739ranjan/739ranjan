@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 📫 Reach out me **ranjanshahsi739@gmail.com**
+- 📫 Reach out me **ranjanshashi739@gmail.com**
 
 - 📄 My Resume (https://github.com/user-attachments/files/16542993/Resume.pdf)
 
