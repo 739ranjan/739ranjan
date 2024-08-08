@@ -4,11 +4,12 @@
 
 - 🔭 I’m currently working on [Plant Disease Identification and Its Diagnosis](https://github.com/739ranjan/Plant-Disease-Identification-And-Diagnosis)
 
-- 🌱 I’m currently learning **Spring**
+- 🌱 I’m currently learning **React**
 
 - 📫 Reach out me **ranjanshahsi739@gmail.com**
 
-- 📄 My Resume [https://drive.google.com/file/d/1qJOqFVjfFjbACIbbgxTGGJJOKQSkgYb3/view?usp=sharing](https://drive.google.com/file/d/1qJOqFVjfFjbACIbbgxTGGJJOKQSkgYb3/view?usp=sharing)
+- 📄 My Resume (https://github.com/user-attachments/files/16542993/Resume.pdf)
+kgYb3/view?usp=sharing)
 
 - ⚡ Fun fact **I love coding.**
 
