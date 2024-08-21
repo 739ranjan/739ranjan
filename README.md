@@ -8,7 +8,8 @@
 
 - 📫 Reach out me **ranjanshashi739@gmail.com**
 
-- 📄 My Resume (https://github.com/user-attachments/files/16542993/Resume.pdf)
+- 📄 My Resume ([Shashi_Ranjan_Resume.pdf](https://github.com/user-attachments/files/16691591/Shashi_Ranjan_Resume.pdf)
+)
 
 - ⚡ Fun fact **I love coding.**
 
