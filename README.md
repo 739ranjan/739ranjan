@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on [Plant Disease Identification and Its Diagnosis](https://github.com/739ranjan/Plant-Disease-Identification-And-Diagnosis)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Node**
 
 - 📫 Reach out me **ranjanshashi739@gmail.com**
 
