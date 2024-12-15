@@ -35,7 +35,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working on a project called Expense Tracker<br>- 📚 I'm currently learning Node.js<br>- 📫 Reach out me <a href="mailto: ranjanshashi739@gmail.com">ranjanshashi739@gmail.com</a><br>- 📃<a href="https://drive.google.com/file/d/1IUpR_repm9KO4JodbeRX2kwSYhNcRway/view?usp=drive_link" target="_blank">My Resume</a><br>- ⚡ In my free time i love solving data structures and algorithms</p>
+<p align="left">- 🔭 I’m working on a project called Expense Tracker<br>- 📚 I'm currently learning Node.js<br>- 📫 Reach out me <a href="mailto: ranjanshashi739@gmail.com">ranjanshashi739@gmail.com</a><br>- 📃<a href="https://drive.google.com/file/d/1XrRqVTslHZt7L9lMcJY6RZ4Zi2JIl3Wk/view?usp=sharing" target="_blank">My Resume</a><br>- ⚡ In my free time i love solving data structures and algorithms</p>
 
 ###
 
